@@ -16,9 +16,9 @@ function Footer() {
         <div className="footer-contact">
           <p>Contact us at: <a className="footer-contact-email" href="mailto:mflix-contact@mf.com">mflix-contact@mf.com</a></p>
           <ul className="footer-social">
-            <li><a className="footer-social-item" href="#"><FaFacebook /></a></li> {/* removed social media names */}
-            <li><a className="footer-social-item" href="#"><FaTwitter /></a></li> {/* removed social media names */}
-            <li><a className="footer-social-item" href="#"><FaInstagram /></a></li> {/* removed social media names */}
+            <li><a className="footer-social-item" href="#"><FaFacebook /></a></li> 
+            <li><a className="footer-social-item" href="#"><FaTwitter /></a></li> 
+            <li><a className="footer-social-item" href="#"><FaInstagram /></a></li>
           </ul>
         </div>
         <p className='footer-copyright'>&copy; {year}</p>
