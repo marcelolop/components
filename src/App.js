@@ -10,7 +10,7 @@ import heroBanner from './assets/media/hero-banner-video.mp4';
 
 
 function App() {
-  const [movies, setMovies] = useState(moviesData);
+  const [movies] = useState(moviesData);
   const bannerProps = {
     title: 'Welcome to MFlix!',
     text: 'Discover the latest movies and find your next favorite film.',

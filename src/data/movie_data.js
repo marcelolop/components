@@ -1,5 +1,3 @@
-'use strict';
-
 const movies = [
     {
     id: 1001,
